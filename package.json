@@ -1,0 +1,11 @@
+{
+  "name": "convert-text-eleicoes-2022",
+  "version": "1.0.3",
+  "description": "Simulação - Converte texto para número.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JonasVix",
+  "license": "ISC"
+}
